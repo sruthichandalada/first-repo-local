@@ -1,2 +1,4 @@
 This is the file line of the second file.
 Added a new line in the second file as well
+1 line
+
